@@ -4,7 +4,7 @@ I'm a dedicated and passionate software engineer, specializing in backend develo
 
 💻 I'm a fervent dark theme enthusiast. You'll often find me engrossed in a stack of books during my spare time, continuously expanding my knowledge. Beyond the world of code, I also enjoy hanging out with friends, striking a balance between my passion for technology and the joys of human connections.
 
-### 🌐 My Contributions to the Community
+### 🌐 My contributions to the Community
 
 - **validator.js:** Contributed to the development of the [`isTime`](https://github.com/validatorjs/validator.js/pull/1479) validator in JavaScript, enhancing its functionality.
 
@@ -12,18 +12,18 @@ I'm a dedicated and passionate software engineer, specializing in backend develo
 
 - **Hack In Cariri:** One of creator's of [Hack In Cariri](https://github.com/hackincariri) event, fostering a vibrant cybersecurity community.
 
-### 🔍 My Discovered CVEs
+### 🔍 My discovered CVEs
 
 - **CVE-2024-XXXXX:** Waiting public disclosure.
 - **CVE-2024-XXXXX:** Waiting public disclosure.
 
-### 📖 My Blog
+### 📖 My blog
 
 Explore my thoughts and insights on various topics in technology and beyond on my [Medium](https://medium.com/@francoatmega).
 
 <!---
 
-### 🚀 My Creation
+### 🚀 My creation
 
 - [Digitai.app](https://digitai.app): Check out my latest project, Digitai, where [brief description of the project].
 

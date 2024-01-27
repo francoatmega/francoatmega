@@ -35,3 +35,12 @@ As someone wise once imparted, I offer this guidance: "Stay hungry, stay foolish
 
 - https://www.linkedin.com/in/jardelmatias
 - https://francoatmega.io
+
+<!---
+
+### 🚀 My inspiration quotes
+
+- "Stay hungry, stay foolish!"
+- "First do it, then do it right, then do it better"
+
+-->

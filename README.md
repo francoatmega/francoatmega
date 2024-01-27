@@ -8,7 +8,7 @@ I'm a dedicated and passionate software engineer, specializing in backend develo
 
 - **validator.js:** Contributed to the development of the [`isTime`](https://github.com/validatorjs/validator.js/pull/1479) validator in JavaScript, enhancing its functionality.
 
-- **CTF Platform:** Proud creator of a Capture The Flag (CTF) platform and CTF challenges.
+- **CTF Platform:** Proud creator of a [Capture The Flag (CTF) platform](https://hackincariri.com.br/login) and CTF challenges.
 
 - **Hack In Cariri:** One of creator's of [Hack In Cariri](https://github.com/hackincariri) event, fostering a vibrant cybersecurity community.
 

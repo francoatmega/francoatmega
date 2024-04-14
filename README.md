@@ -14,7 +14,7 @@ I'm a dedicated and passionate software engineer, specializing in backend develo
 
 ### 🔍 My discovered CVEs
 
-- **CVE-2024-22363:**.
+- **CVE-2024-22363**
 - **CVE-2024-XXXX6:** Waiting public disclosure.
 
 ### 📖 My blog
